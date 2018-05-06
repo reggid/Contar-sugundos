@@ -1,0 +1,54 @@
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.csprojResolveAssemblyReference.cache
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Arial.xnb
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Real_Time.exe
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Real_Time.pdb
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.exe
+c:\users\desk\documents\visual studio 2015\Projects\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.pdb
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Real_Time.exe
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Real_Time.pdb
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.csprojResolveAssemblyReference.cache
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.exe
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.pdb
+C:\Users\Lycan\Desktop\Real Time\Real Time\Real_Time\bin\x86\Debug\gameset_configs.txt
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\gameset_configs.txt
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Arial.xnb
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Real_Time.exe
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Real_Time.pdb
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.dll
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.xml
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+N:\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.csprojResolveAssemblyReference.cache
+N:\Real Time\Real Time\Real_Time\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+N:\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.exe
+N:\Real Time\Real Time\Real_Time\obj\x86\Debug\Real_Time.pdb
+N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Cube.xnb
