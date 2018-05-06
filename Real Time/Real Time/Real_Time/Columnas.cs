@@ -10,7 +10,7 @@ namespace Real_Time
 {
     class Columnas
     {
-        private Vector2 Pos = new Vector2(20, 220);
+        private Vector2 Pos = new Vector2(20, 390);
         private SpriteFont Arial;
         private KeyboardState _currentKeyboardState;
         private KeyboardState _previousKeyboardState;
@@ -25,16 +25,20 @@ namespace Real_Time
         private int CurrentList;
         private bool Finished;
         private List<DoColumn> Cubes;
+        private Texture2D Textu;
+        private int drawCubes;
 
-        public Columnas(List<List<int>> Limites, SpriteFont arial,Texture2D texture)
+        public Columnas(List<List<int>> Limites, SpriteFont arial,Texture2D textu)
         {
+            drawCubes = -1;
+            Textu = textu;
+            Cubes = new List<DoColumn>();
             this.LimitSet = Limites;
             Arial = arial;
             CurrentList = 0;
             Finished = false;
             InitializeTest(CurrentList);
             ResultSet = new List<Result>();
-            
         }
 
         public void Update(GameTime gameTime)
@@ -102,7 +106,9 @@ namespace Real_Time
             TimePased = 0;
             Limits = LimitSet[testIndex];
             CurrentResult = new Result();
-           
+            Cubes.Add(new DoColumn(Limits, Textu));
+            drawCubes++;
+            Cubes[drawCubes].Create();
         }
 
         private float Total(List<Result> results)
@@ -120,9 +126,11 @@ namespace Real_Time
 
         public void draw(SpriteBatch spriteBatch)
         {
-            for (int i = 0; i < Limits.Count(); i++)
-                spriteBatch.DrawString(Arial, Limits[i].ToString(), new Vector2(Pos.X + (i * 100), Pos.Y), Color.Black);
+            //for (int i = 0; i < Limits.Count(); i++)
+              //spriteBatch.DrawString(Arial, Limits[i].ToString(), new Vector2(Pos.X + (i * 100), Pos.Y), Color.Black);
 
+            Cubes[drawCubes].Draw(spriteBatch);
+            
             if (escribir)
             {
                 spriteBatch.DrawString(Arial, text, new Vector2(0, 0), Color.Black);

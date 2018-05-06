@@ -7,7 +7,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Output>C:\Users\Desk\Documents\GitHub\Contar-sugundos\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Arial.xnb</Output>
       <Time>2018-03-28T20:48:06-03:00</Time>
     </Item>
     <Item>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Cube.xnb</Output>
-      <Time>2018-05-06T17:08:26-03:00</Time>
+      <Output>C:\Users\Desk\Documents\GitHub\Contar-sugundos\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\Cube.xnb</Output>
+      <Time>2018-05-06T20:03:54.2670596-03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -26,10 +26,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>N:\Real Time\Real Time\Real_TimeContent\</RootDirectory>
-      <LoggerRootDirectory>N:\Real Time\Real Time\Real_Time\</LoggerRootDirectory>
-      <IntermediateDirectory>N:\Real Time\Real Time\Real_Time\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>N:\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Desk\Documents\GitHub\Contar-sugundos\Real Time\Real Time\Real_TimeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Desk\Documents\GitHub\Contar-sugundos\Real Time\Real Time\Real_Time\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Desk\Documents\GitHub\Contar-sugundos\Real Time\Real Time\Real_Time\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Desk\Documents\GitHub\Contar-sugundos\Real Time\Real Time\Real_Time\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
