@@ -73,9 +73,8 @@ namespace Real_Time
                 {
                     CurrentResult.Add((TimePased - Limits[TimesPressed]));
 
-                    foreach (var c in Cubes)
-                        foreach (var florrs in c.piso)
-                          if (florrs.Done)
+                    foreach (var c in Cubes[drawCubes].piso)
+                          if (c.Done)
                                 colorCubes++;
                     
                  
