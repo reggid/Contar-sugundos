@@ -28,14 +28,11 @@ namespace Real_Time
         private Texture2D Textu;
         private int drawCubes;
         private int colorCubes;
-        private int fr;
-        private int otro;
 
         public Columnas(List<List<int>> Limites, SpriteFont arial,Texture2D textu)
         {
             drawCubes = -1;
             colorCubes = 0;
-            otro = 0;
             Textu = textu;
             Cubes = new List<DoColumn>();
             this.LimitSet = Limites;
@@ -78,9 +75,9 @@ namespace Real_Time
                                 colorCubes++;
                     
                  
-                    for (int i = 0; fr <(colorCubes + Limits[TimesPressed]); fr++)
+                    for (int i = 0; i <(colorCubes + Limits[TimesPressed]); i++)
                     {
-                        Cubes[drawCubes].piso[fr].Done = true;
+                        Cubes[drawCubes].piso[i].Done = true;
                     }
 
                     colorCubes = 0;
@@ -125,7 +122,6 @@ namespace Real_Time
             CurrentResult = new Result();
             Cubes.Add(new DoColumn(Limits, Textu));
             drawCubes++;
-            fr = 0;
             Cubes[drawCubes].Create();
         }
 
